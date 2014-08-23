@@ -1,6 +1,6 @@
 ;Pascal triangle generator in Assembly
 ;by luc99a
-;the code is not commented, I will make a Python code to explain the algorithm used
+;the code is not commented, Python version: https://gist.github.com/luc99a/bb808b997df3904f2412
 
 section .bss
 toprint:	resb	1
