@@ -1,5 +1,6 @@
 ;Code for Linux Assemly, nasm assembler
 ;by luc99a
+;Explained in Python: https://gist.github.com/luc99a/dacd680368dc84b083e4
 
 section .bss
 toprint:	resb	1
