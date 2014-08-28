@@ -88,7 +88,7 @@ pascal:
 	end:
 	ret
 
-;print a number to sdtout
+;print a number to stdout
 ;param number in eax
 printnum:
 	xor edi, edi
